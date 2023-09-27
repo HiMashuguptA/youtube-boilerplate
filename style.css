@@ -11,7 +11,7 @@
 .header {
     margin-left: 262px;
     height: 745px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     margin-top: -650px;
     width: 960px;
 }
@@ -54,6 +54,15 @@
     width: 61px;
     height: 240px;
     
+    justify-content: space-between;
+}
+.insidetext {
+    display: flex;
+    width: 958px;
+    height: 37px;
+    /* border: 2px solid yellow; */
+    color: black;
+    font-size: 14px;
     justify-content: space-between;
 }
 #subscrip {
@@ -153,15 +162,198 @@
     margin-top: 20px;
     font-size: 15px;
 }
-.p1{
+/* .p1{
     border: 2px solid black;
     border-radius: 4px;
-    height: 20px;
-    width: 20px;
+    height: 27px;
+    width: 65px;
     margin-top: 10px;
     margin-left: 20px;
     position: absolute;
+    background-color: black;
+    z-index: -1;
+} */
+/* .p2{
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 27px;
+    width: 65px;
+    margin-top: 10px;
+    margin-left: 50px;
+    position: absolute;
+    background-color: black;
+    z-index: -1;
 }
+.p3{
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 27px;
+    width: 65px;
+    margin-top: 10px;
+    margin-left: 90px;
+    position: absolute;
+    background-color: black;
+    z-index: -1;
+}
+.p4{
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 27px;
+    width: 65px;
+    margin-top: 10px;
+    margin-left: 120px;
+    position: absolute;
+    background-color: black;
+    z-index: -1;
+}
+.p5{
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 27px;
+    width: 65px;
+    margin-top: 10px;
+    margin-left: 150px;
+    position: absolute;
+    background-color: black;
+    z-index: -1;
+}
+.p6{
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 27px;
+    width: 65px;
+    margin-top: 10px;
+    margin-left: 180px;
+    position: absolute;
+    background-color: black;
+    z-index: -1;
+}
+.p7{
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 27px;
+    width: 65px;
+    margin-top: 10px;
+    margin-left: 220px;
+    position: absolute;
+    background-color: black;
+    z-index: -1;
+}
+.p8{
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 27px;
+    width: 65px;
+    margin-top: 10px;
+    margin-left: 250px;
+    position: absolute;
+    background-color: black;
+    z-index: -1;
+}
+.p9{
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 27px;
+    width: 65px;
+    margin-top: 10px;
+    margin-left: 280px;
+    position: absolute;
+    background-color: black;
+    z-index: -1;
+}
+.p10{
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 27px;
+    width: 65px;
+    margin-top: 10px;
+    margin-left: 310px;
+    position: absolute;
+    background-color: black;
+    z-index: -1;
+}
+.p11{
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 27px;
+    width: 65px;
+    margin-top: 10px;
+    margin-left: 340px;
+    position: absolute;
+    background-color: black;
+    z-index: -1;
+}
+.p12 {
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 27px;
+    width: 65px;
+    margin-top: 6px;
+    margin-left: 850px;
+    position: absolute;
+    background-color: black;
+    z-index: -1;
+} */
+/* .txt12 {
+    margin-top: 11px;
+    margin-left: 860px;
+    position: absolute;
+    font-size: 14px;
+    color: white;
+} */
+.txt1 {
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.txt1 {
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.txt2 {
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.txt3 {
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.txt4 {
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.txt5 {
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.txt6 {
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.txt7 {
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.txt8 {
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.txt9 {
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.txt10 {
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.txt11{
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.txt12{
+    margin-left: 28px;
+    margin-top: 15px;
+}
+
 .hr1{
     border: none;
     height: 1px;
