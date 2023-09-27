@@ -162,6 +162,10 @@
     margin-top: 20px;
     font-size: 15px;
 }
+.foot{
+    display: flex;
+
+}
 /* .p1{
     border: 2px solid black;
     border-radius: 4px;
@@ -430,5 +434,10 @@ li{
     margin-top: -30px;
     margin-left: 897px;
     height: 25px;
+    position: absolute;
+}
+#im1 {
+    margin-left: 284px;
+    margin-top: -621px;
     position: absolute;
 }
