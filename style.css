@@ -1,0 +1,242 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.sidebackground{
+    width: 229px;
+    height: 745px;
+    /* border: 2px solid red; */
+    /* background-color: grey; */
+}
+.header {
+    margin-left: 262px;
+    height: 745px;
+    border: 2px solid red;
+    margin-top: -650px;
+    width: 960px;
+}
+.sidebar{
+    display: flex;
+    /* border: 2px solid blueviolet; */
+    width: 148px;
+    justify-content: space-between;
+    
+}
+.firstlined {
+    width: 957px;
+    height: 54px;
+}
+.sidedown {
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid green; */
+    width: 61px;
+    height: 152px;
+    margin-top: 23px;
+    justify-content: space-between;
+}
+.slidedown2{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid green; */
+    width: 61px;
+    height: 202px;
+    
+    justify-content: space-between;
+
+}
+.slidedown3{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid green; */
+    width: 61px;
+    height: 240px;
+    
+    justify-content: space-between;
+}
+#subscrip {
+    margin-left: 22px;
+    font-size: 16px;
+    margin-top: -7px;
+}
+#text1 {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 152px;
+    margin-top: -155px;
+    /* border: 2px solid black; */
+    margin-left: 62px;
+
+}
+#text2{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 152px;
+    margin-top: -155px;
+    /* border: 2px solid black; */
+    margin-left: 62px;
+}
+#text3 {
+    display: flex;
+    flex-direction: column;
+    width: 152px;
+    height: 152px;
+    margin-top: -229px;
+    /* border: 2px solid black; */
+    margin-left: 73px;
+}
+.text1{
+    margin-top: 10px;
+    font-size: 15px;
+}
+.text2{
+    margin-top: 20px;
+    font-size: 15px;
+}
+.text3{
+    margin-top: 20px;
+    font-size: 15px;
+}
+.text4{
+    margin-top: 23px;
+    font-size: 15px;
+}
+.text5{
+    margin-top: -45px;
+    font-size: 15px;
+}
+.text6{
+    margin-top: 17px;
+    font-size: 15px;
+}
+.text7{
+    margin-top: 17px;
+    font-size: 15px;
+}
+.text8{
+    margin-top: 17px;
+    font-size: 15px;
+}
+.text9{
+    margin-top: 17px;
+    font-size: 15px;
+}
+.text10{
+    margin-top: 13px;
+    font-size: 15px;
+}
+.text11{
+    margin-top: 10px;
+    font-size: 15px;
+}
+.text12{
+    margin-top: 23px;
+    font-size: 15px;
+}
+.text13{
+    margin-top: 18px;
+    font-size: 15px;
+}
+.text14{
+    margin-top: 18px;
+    font-size: 15px;
+}
+.text15{
+    margin-top: 19px;
+    font-size: 15px;
+}
+.text16{
+    margin-top: 20px;
+    font-size: 15px;
+}
+.p1{
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 20px;
+    width: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    position: absolute;
+}
+.hr1{
+    border: none;
+    height: 1px;
+    background-color: rgb(227, 232, 236);
+}
+li{
+    list-style-type: none;
+}
+.hr1 {
+    margin-top: 18px;
+    width: 213px;
+}
+.inputbox{
+    margin-top: 10px;
+    margin-left: 159px;
+} 
+.leftside{
+    display: flex;
+    flex-direction: row;
+}
+#inputbox{
+    width: 443px;
+    height: 35px;
+} 
+#hambarger{
+    height: 20px;
+    width: 20px;
+    margin-left: 24px;
+    margin-top: 14px;
+}
+#youtubelogo{
+    margin-top: 14px;
+}
+#sideicon{
+    height: 25px;
+    width: 24px;
+    margin-left: 22px;
+}
+#search {
+    width: 24px;
+    height: 24px;
+    margin-top: -31px;
+    margin-left: 567px;
+    position: absolute;
+}
+#voice {
+    width: 24px;
+    height: 28px;
+    margin-top: -34px;
+    margin-left: 617px;
+    position: absolute;
+}
+.camera {
+    width: 24px;
+    height: 28px;
+    margin-top: -32px;
+    margin-left: 763px;
+    position: absolute;
+}
+.more {
+    margin-top: -30px;
+    margin-left: 812px;
+    height: 25px;
+    position: absolute;
+}
+.create{
+    margin-top: -30px;
+    margin-left: 853px;
+    height: 25px;
+    position: absolute;
+}
+
+.ellipse {
+    margin-top: -30px;
+    margin-left: 897px;
+    height: 25px;
+    position: absolute;
+}
